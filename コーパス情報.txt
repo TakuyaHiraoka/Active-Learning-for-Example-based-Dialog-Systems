@@ -1,4 +1,0 @@
-ProjectNext:全コーパスを利用した場合の総ペア数：13363
-Switchboard:20~27番のコーパスを利用した際の総ペア数：31796
-IdosMovie:"Turn2->Turn3"のみ利用した場合、総ペア数17793
-BusInformation:train1_aを利用した場合、総ペア数13836
