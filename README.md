@@ -11,7 +11,9 @@ For evaluating query selection methods, simulated environments based on several 
 
 ## Requirement
 NLTK 3.0.2+
+
 Sklearn 0.16.1+
+
 Corpus for simulated environment [downloadable from here](https://www.dropbox.com/s/n7s8nd0x8jv4zbh/Data_OracleCorpus.zip?dl=0)
 
 ## Quick start 
@@ -30,27 +32,3 @@ TBA
 
 [TakuyaHiroka](http://isw3.naist.jp/~takuya-h/)
 
-
-
-## Moomin
-
-　　　　　　　∧　 ∧
-　　　　　　 |1/　|1/
-　　　　 ／￣￣￣｀ヽ、
-　　　 /　　　　　　　　ヽ
-　　　/　 ⌒　 ⌒　　　 |
-　　　|　（●） （●）　　 |
-　　 /　　　　　　　　　　|
-　 /　　　　　　　　　　　|
-　{　　　　　　　　　　　　|
-　 ヽ、　　　　　　　ノ　　|
-　　　｀`ー――‐''"　　　|
-　　　 /　　　　　　　　　　|
-　　　|　　　　　　　　　　|　|
-　　 .|　　　　　　　　|　　|　|
-　　 .|　　　　　　　　し,,ノ　|
-　　　!、　　　　　　　　　　/
-　　　 ヽ､　　　　　　　　 / 、
-　　　　　ヽ、　 ､　　　／ヽ.ヽ、
-　　　　　　 |　　|　　 |　　　ヽ.ヽ、
-　　　　　 （＿_（＿＿|　　　　 ヽ､ニ三
