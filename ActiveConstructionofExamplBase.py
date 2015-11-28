@@ -129,7 +129,7 @@ class ExperimentalCondition:
     #RestrantInfo
     #TouristInfo
     
-    isInitialyCreateCompiledUserSystemUteranceAndVecorizor=False#実験用データをファイルから構築しなおすか
+    isInitialyCreateCompiledUserSystemUteranceAndVecorizor=True#実験用データをファイルから構築しなおすか
     isUseTfIDFweight=True#実験用データをファイルから構築しなおす際に、tf-idf重み付けを利用するか
     num4HoldoutTestSet=200#8000#8000#9500#1200#2000#7000#8500#15000#8500#6500#1000#30#全オラクルデータ中の、テストセット数
     percentile4InitialExampleDatabaseSize=0.005#0.002#0.0021#0.005#0.001#0.005#0.01#全オラクルデータ中の、初期のシステムの用例が占める割合
